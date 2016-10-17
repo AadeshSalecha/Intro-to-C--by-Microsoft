@@ -1,0 +1,28 @@
+
+
+//Author    : Aadesh Salecha
+//Course    : Nand2Tetris
+//Date      : March 2016
+
+
+1st Question:
+First Name should be a string(char array) an optimal size would be of 32 characters as in some countries, names can be quite long.
+
+Street Address should be a structure with variables to hold the house number(int), the Primary Street Name(char array), and another string for nearby Landmarks.
+
+Zip/Postal Code should be an int as the international format has only 6 digits.
+
+Bank Account Balance should be stored in a double so that it has more floating point precision.
+
+Months of the Year should be stored in an enum of size 12 with all the valid months already specified
+
+2nd Quesiton:
+First Name should be a string(char array) an optimal size would be of 32 characters as in some countries, names can be quite long.
+
+Street Address should be a structure with variables to hold the house number(int), the Primary Street Name(char array), and another string for nearby Landmarks.
+
+Zip/Postal Code should be an int as the international format has only 6 digits.
+
+Bank Account Balance should be stored in a double so that it has more floating point precision.
+
+Months of the Year should be stored in an enum of size 12 with all the valid months already specified
